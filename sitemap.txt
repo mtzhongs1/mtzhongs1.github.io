@@ -1,4 +1,5 @@
-https://mtzhongs1.github.io/data/index.html
+https://mtzhongs1.github.io/categories/index.html
+https://mtzhongs1.github.io/tags/index.html
 https://mtzhongs1.github.io/home/index-1.html
 https://mtzhongs1.github.io/about/index.html
 https://mtzhongs1.github.io/home/index.html
